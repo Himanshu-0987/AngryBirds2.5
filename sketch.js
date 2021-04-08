@@ -67,5 +67,6 @@ function draw(){
     platform.display();
     conslog.display();
     chain.display();
+    //sdadwfdfgdsfgef
     
 }
